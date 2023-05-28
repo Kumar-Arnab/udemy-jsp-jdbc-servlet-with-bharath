@@ -1,0 +1,17 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+ <head>
+  <title> Product Creation</title>
+ </head>
+
+ <body>
+ <h2>Enter Product Details</h2><br/>
+  <form action="ProductServlet" method="post">
+    Id : <input type="text" name="id"/><br/>
+	Name : <input type="text" name="name"/><br/>
+	Description: <input type="text" name="description"/><br/>
+	Price: <input type="text" name="price"/><br/>
+<input type="submit" />
+</form>
+ </body>
+</html>
