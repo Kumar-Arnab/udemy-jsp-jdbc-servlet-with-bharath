@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<taglib>
+<tlibversion>2.0</tlibversion>
+<jspversion>2.0</jspversion>
+<shortname>userinformation</shortname>
+<info>This library displays the user information.</info>
+<uri>http://arnab.com</uri>
+
+<tag>
+	<name>displayuser</name>
+	<tagclass>com.bharath.udemy.jsp.customtags.ResultHandler</tagclass>
+	<info>Displays the user information.</info>
+</tag>
+</taglib>
